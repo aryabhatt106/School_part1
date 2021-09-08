@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: lightyellow;
+}
+
+h1 {
+    font-family: 'Patrick Hand', cursive;
+    color: darkblue;
+    align-content: center;
+}
+
+h3 {
+    font-family: 'Patrick Hand', cursive;
+    color: darkblue;
+    align-content: center;
+}
+
+h4 {
+    font-family: 'Patrick Hand', cursive;
+    color: darkblue;
+    align-content: center;
+}
+
+p {
+    font-family: 'Patrick Hand', cursive;
+    color: darkblue;
+    align-content: center;
+}
